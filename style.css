@@ -1,0 +1,18 @@
+fieldset {
+	font-size: 30px;
+}
+fieldset span {
+	color: yellow;
+}
+fieldset div {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.material-icons {
+	font-size: 36px;
+}
+fieldset span:hover {
+	opacity: 30%;
+	cursor: pointer;
+}
